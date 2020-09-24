@@ -1,0 +1,6 @@
+E:\Faculta\Altele\Coffee\Coffee\bin\Debug\Coffee.exe.config
+E:\Faculta\Altele\Coffee\Coffee\bin\Debug\Coffee.exe
+E:\Faculta\Altele\Coffee\Coffee\bin\Debug\Coffee.pdb
+E:\Faculta\Altele\Coffee\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
+E:\Faculta\Altele\Coffee\Coffee\obj\Debug\Coffee.exe
+E:\Faculta\Altele\Coffee\Coffee\obj\Debug\Coffee.pdb
